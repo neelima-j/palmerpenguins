@@ -12,6 +12,6 @@ Using ggplot2, I've made various plots to:
 diamonds.rmd
 Explored the diamonds dataset to:
 
--explore the data with barplots
--plot means and underlying data using jitter plots
--control for variables and look for correlations using facet_grid
+- explore the data with barplots 
+- plot means and underlying data using jitter plots 
+- control for variables and look for correlations using facet_grid  
